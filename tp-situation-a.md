@@ -41,4 +41,58 @@ J'ai perdu deux jours à suspecter le câblage alors que les compteurs d'erreurs
 
 ---
 
-**Compétences mobilisées** : gérer le patrimoine informatique ; répondre aux incidents et aux demandes d'assistance.
+## Situation B
+
+## Contexte
+
+Le bureau d'étude dispose de 20 postes accessibles par tout le monde. 
+
+## Problématique
+
+Depuis environ deux semaines, un ordinateur du bureau d'étude était défectueux. Il redémarrait plusieurs fois dans la journée, ce qui entraînait une perte du travail de l'utilisateur.
+
+## Démarche
+
+J'ai commencé par regarder l'Observateur d'événements pour chercher l'origine des redémarrages. J'ai remarqué la présence de Kernel-Power 41. J'ai d'abord vérifié si le problème pouvait venir de Windows et effectué les mises à jour disponibles, mais ça n'a pas résolu le problème. J'ai alors pensé a la RAM et lancé un memtest une nuit, mais il n'y avait rien. J'ai donc ouvert le boitier du PC et constaté qu'il y avait énormément de poussière et un bruit bizarre venant du ventilateur. J'ai alors mesuré la consommation éléctrique avec une prise wattmétrique, le poste tirait 310 W en pointe avec une alimentation de 350 W. J'ai donc finis par changer l'alimentation pour une de 550 W, et ensuite fait un nettoyage complet du poste. 
+
+## Outils mobilisés
+
+- memtest
+- prise wattmétrique
+- alimentation 550 W
+
+## Précaution prises
+
+J'ai débranché le poste avant l'intervention pour travailler en sécurité, et j'ai également vérifié les mises àjour Windows. 
+
+## Résultat
+
+Arrêt des redémarrages pendant le mois suivant. 
+
+## Bilan personnel
+
+C'était ma première panne matérielle trouvée tout seul, et j'en était particulièrement fière. Je penserais donc a vérifier l'alimentation plus tôt la prochaine fois. 
+
+**Compétences mobilisées** : gérer une panne matérielle ; changement d'alimentation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
