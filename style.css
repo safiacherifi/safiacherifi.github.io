@@ -1,0 +1,51 @@
+body {
+    background-color: #07152b;
+    color: rgb(7, 7, 53);
+    
+}
+
+header {
+    background-color: rgb(46, 6, 6);
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+header h1 {
+   color: rgb(247, 244, 244);
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header p {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+}
+
+section {
+    background-color: rgb(46, 6, 6);
+    padding: 30px;
+    margin: 30px auto;
+    max-width: 800px;
+    border-radius: 15px;
+    color: white;
+}
+
+h1 {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+p {
+    color: white;
+}
+
+a {
+    color: white;
+}
